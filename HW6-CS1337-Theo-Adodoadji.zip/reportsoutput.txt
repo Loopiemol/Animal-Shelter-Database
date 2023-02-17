@@ -1,0 +1,345 @@
+
+Creating a new animal.
+
+I am creating a dog called Fiddo at number 0
+
+Woof.
+My name is Fiddo
+I am 5 years old
+I am dog number 1
+and I am animal number 1
+I am a(an) dog
+I am 7 pounds
+I am a/an Spaniel
+I am spotted
+I am in good health
+
+Creating a new animal.
+
+I am creating a dog called Rex at number 1
+
+Woof.
+My name is Rex
+I am 3 years old
+I am dog number 2
+and I am animal number 2
+I am a(an) dog
+I am 5 pounds
+I am a/an Mutt
+I am brown and white
+I am in good health
+
+Creating a new animal.
+
+I am creating a dog called Sparky at number 2
+
+Woof.
+My name is Sparky
+I am 5 years old
+I am dog number 3
+and I am animal number 3
+I am a(an) dog
+I am 14 pounds
+I am a/an Dalmation
+I am spotted
+I am in good health
+
+Creating a new animal.
+
+I am creating a dog called Max at number 3
+
+Woof.
+My name is Max
+I am 6 years old
+I am dog number 4
+and I am animal number 4
+I am a(an) dog
+I am 4 pounds
+I am a/an UNKNOWN
+I am brown
+I am in good health
+
+Creating a new animal.
+
+I am creating a dog called Alex at number 4
+
+Woof.
+My name is Alex
+I am 4 years old
+I am dog number 5
+and I am animal number 5
+I am a(an) dog
+I am 2 pounds
+I am a/an Heinz 57
+I am UNKNOWN
+I am have heart worms
+
+Creating a new animal.
+
+I am creating a dog called Old Yeller at number 5
+
+Woof.
+My name is Old Yeller
+I am 5 years old
+I am dog number 6
+and I am animal number 6
+I am a(an) dog
+I am 7 pounds
+I am a/an Labrador
+I am yellow
+I am rabies
+
+Creating a new animal.
+
+I am creating a dog called Killer at number 6
+
+Woof.
+My name is Killer
+I am 7 years old
+I am dog number 7
+and I am animal number 7
+I am a(an) dog
+I am 4 pounds
+I am a/an Doberman Pinscher
+I am brown
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Morris at number 0
+
+Meow.
+My name is Morris
+I am 1 years old
+I am cat number 1
+and I am animal number 8
+I am a(an) cat
+I am 2 pounds
+I am a/an mixed
+I am yellow
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Mittens at number 1
+
+Meow.
+My name is Mittens
+I am 2 years old
+I am cat number 2
+and I am animal number 9
+I am a(an) cat
+I am 3 pounds
+I am a/an Calico
+I am brown and white
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Junior at number 2
+
+Meow.
+My name is Junior
+I am 1 years old
+I am cat number 3
+and I am animal number 10
+I am a(an) cat
+I am 2 pounds
+I am a/an Cartoon
+I am grey
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Priss at number 3
+
+Meow.
+My name is Priss
+I am 2 years old
+I am cat number 4
+and I am animal number 11
+I am a(an) cat
+I am 3 pounds
+I am a/an Heinz
+I am white
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Charcoal at number 4
+
+Meow.
+My name is Charcoal
+I am 1 years old
+I am cat number 5
+and I am animal number 12
+I am a(an) cat
+I am 2 pounds
+I am a/an Siamese
+I am white and yellow
+I am expecting
+
+Creating a new animal.
+
+I am creating a cat called Bitsy at number 5
+
+Meow.
+My name is Bitsy
+I am 4 years old
+I am cat number 6
+and I am animal number 13
+I am a(an) cat
+I am 6 pounds
+I am a/an Manx
+I am grey
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Charmin at number 6
+
+Meow.
+My name is Charmin
+I am 2 years old
+I am cat number 7
+and I am animal number 14
+I am a(an) cat
+I am 3 pounds
+I am a/an Ragdoll
+I am white
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called red at number 7
+
+Meow.
+My name is red
+I am 2 years old
+I am cat number 8
+and I am animal number 15
+I am a(an) cat
+I am 2 pounds
+I am a/an Manx
+I am black
+I am parvo
+
+Creating a new animal.
+
+I am creating a cat called Cute Stuff at number 8
+
+Meow.
+My name is Cute Stuff
+I am 1 years old
+I am cat number 9
+and I am animal number 16
+I am a(an) cat
+I am 2 pounds
+I am a/an Persian
+I am yellow
+I am in good health
+
+Creating a new animal.
+
+I am creating a cat called Yikes at number 9
+
+Meow.
+My name is Yikes
+I am 2 years old
+I am cat number 10
+and I am animal number 17
+I am a(an) cat
+I am 3 pounds
+I am a/an Bengal
+I am Spotted
+I am in fair health
+
+Creating a new animal.
+
+I am creating a pet called Mickey at number 0
+
+Squeek.
+My name is Mickey
+I am 1 years old
+I am pet number 1
+and I am animal number 18
+I am a(an) pet
+I am 2 pounds
+I am a/an a mouse and a Cartoon breed
+I am grey
+I am in good health
+
+Creating a new animal.
+
+I am creating a pet called Tweety at number 1
+
+Squeek.
+My name is Tweety
+I am 1 years old
+I am pet number 2
+and I am animal number 19
+I am a(an) pet
+I am 0 pounds
+I am a/an a bird and a Canary breed
+I am yellow
+I am in good health
+
+Creating a new animal.
+
+I am creating a pet called Chippy at number 2
+
+Squeek.
+My name is Chippy
+I am 2 years old
+I am pet number 3
+and I am animal number 20
+I am a(an) pet
+I am 1 pounds
+I am a/an a chipmunk and UNKNOWN breed
+I am White and gold
+I am in good health
+
+Creating a new animal.
+
+I am creating a pet called Peter at number 3
+
+Squeek.
+My name is Peter
+I am 1 years old
+I am pet number 4
+and I am animal number 21
+I am a(an) pet
+I am 3 pounds
+I am a/an a rabbit and cotton-tail breed
+I am White
+I am expecting
+
+Total Number of Pets: 21
+Total Number of Dogs: 7
+Total Number of Cats: 10
+Other Pets: 4
+
+Destructing pet number4, named Peter
+Destructing pet number3, named Chippy
+Destructing pet number2, named Tweety
+Destructing pet number1, named Mickey
+Destructing cat number10, named Yikes
+Destructing cat number9, named Cute Stuff
+Destructing cat number8, named red
+Destructing cat number7, named Charmin
+Destructing cat number6, named Bitsy
+Destructing cat number5, named Charcoal
+Destructing cat number4, named Priss
+Destructing cat number3, named Junior
+Destructing cat number2, named Mittens
+Destructing cat number1, named Morris
+Destructing dog number7, named Killer
+Destructing dog number6, named Old Yeller
+Destructing dog number5, named Alex
+Destructing dog number4, named Max
+Destructing dog number3, named Sparky
+Destructing dog number2, named Rex
+Destructing dog number1, named Fiddo
+
+
+** Process exited - Return Code: 0 **
